@@ -1,0 +1,9 @@
+[user]
+	email = zahrajid@gmail.com
+	name = ZahraJkhan
+[core]
+	editor = emacs
+[init]
+	defaultBranch = main
+[credential]
+	helper = cache
